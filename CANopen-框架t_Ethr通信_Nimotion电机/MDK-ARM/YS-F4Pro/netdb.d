@@ -1,0 +1,13 @@
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\api\netdb.c
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\include\lwip/netdb.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\include\lwip/opt.h
+ys-f4pro\netdb.o: ../Inc/lwipopts.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\include\lwip/debug.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\include\lwip/arch.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\system\arch/cc.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\system\arch/cpu.h
+ys-f4pro\netdb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ys-f4pro\netdb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+ys-f4pro\netdb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ys-f4pro\netdb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+ys-f4pro\netdb.o: ..\Middlewares\LwIP\src\include\lwip/opt.h
